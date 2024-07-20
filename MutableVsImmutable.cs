@@ -31,4 +31,14 @@ public class MutableVsImmutable
 
         Console.WriteLine(builder.ToString());
     }
+    
+    /*
+     *   git init
+     *   git clone  <repo name>
+     *  git add .
+     *  git commit -m "Your message"
+     *  git push
+     *  git status
+     * 
+     */
 }
